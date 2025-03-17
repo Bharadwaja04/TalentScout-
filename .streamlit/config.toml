@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#4B44BE"            # Accent color remains the same
+backgroundColor = "#121212"         # Dark background for the main view
+secondaryBackgroundColor = "#1E1E1E"  # Darker shade for secondary backgrounds
+textColor = "#e0e0e0"               # Light text for better contrast on dark backgrounds
+font = "sans serif"
+
+[server]
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
