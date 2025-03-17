@@ -67,7 +67,7 @@ st.markdown(
 
 # Streamlit UI
 try:
-    st.image("C:\\Users\\bhara\\OneDrive\\Desktop\\GPT\\logo.webp", width=150)
+    st.image("logo.webp", width=150)
 except:
     st.write("Logo not found. Please check the path.")
     
